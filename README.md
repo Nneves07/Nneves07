@@ -25,26 +25,31 @@
 <!-- Elegant Separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" height="50"> 
-  <span style="color:#00FFD0;"> About Me </span>
+<!-- Completely Redesigned About Me Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=cb2e87&height=8" width="100%" />
+</div>
+
+<h2 align="left">
+  🌟 About Me
 </h2>
 
+🔹 **AI Technical Leader** with **10+ years** of turning cutting-edge innovation into **game-changing business impact**.  
+🔹 Leading the charge at **CreAI**, crafting **robust, scalable AI systems** that redefine industries.  
+🔹 **Co-founder & former CTO** of **Innvox**, where I built an AI platform revolutionizing sales and customer success.
+
+## 💡 What Drives Me
+> *"Building AI solutions that fuse technical excellence with real-world impact"*
+
+- 🚀 **Expertise**: Master of **cloud-native architecture**, **LLMOps**, **NLP**, and **Computer Vision**.  
+- 🔥 **Passion**: Empowering teams and automating workflows to unlock unparalleled efficiency.  
+- 🎯 **Focus**: Delivering **measurable results** through state-of-the-art AI implementations.
+
+
 <div align="center">
-  <table>
-    <tr>
-      <td width="100%">
-        <p align="left">
-          <b>▸ AI Technical Leader</b> with +10 years transforming innovation into real business impact<br>
-          <b>▸ Currently leading at <img src="https://img.shields.io/badge/CreAI-cb2e87?style=flat-square" /></b>, building robust and scalable AI systems<br>
-          <b>▸ Co-founder and former CTO at <img src="https://img.shields.io/badge/Innvox-00FFD0?style=flat-square" /></b>, an AI platform for sales and customer success<br>
-          <b>▸ Specialist in</b> cloud-native architecture, LLMOps, NLP, and Computer Vision<br>
-          <b>▸ Passionate about</b> team empowerment and workflow automation<br>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=cb2e87&height=8" width="100%" />
 </div>
+<!-- End of Redesigned About Me Section -->
 
 <!-- Elegant Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -202,7 +207,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="95%" alt="Quote" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Dev Jokes" />
 </div>
