@@ -33,7 +33,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
+      <td width="100%">
         <p align="left">
           <b>▸ AI Technical Leader</b> with +10 years transforming innovation into real business impact<br>
           <b>▸ Currently leading at <img src="https://img.shields.io/badge/CreAI-cb2e87?style=flat-square" /></b>, building robust and scalable AI systems<br>
@@ -41,9 +41,6 @@
           <b>▸ Specialist in</b> cloud-native architecture, LLMOps, NLP, and Computer Vision<br>
           <b>▸ Passionate about</b> team empowerment and workflow automation<br>
         </p>
-      </td>
-      <td width="40%">
-        <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="100%" />
       </td>
     </tr>
   </table>
