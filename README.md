@@ -62,6 +62,13 @@ Empowering teams, automating workflows, and architecting cloud-native, high-resi
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nneves07&theme=radical&hide_border=true" alt="Nneves07's GitHub streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=natalinaneves-creai&theme=radical&hide_border=true" alt="natalinaneves-creai's GitHub streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Natalina-Neves-Creai&theme=radical&hide_border=true" alt="Natalina-Neves-Creai's GitHub streak" height="180" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nneves07&theme=react-dark&hide_border=true&area=true&custom_title=Activity+Highlights+by+Repository" alt="Activity Graph" height="200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natalinaneves-creai&theme=react-dark&hide_border=true&area=true&custom_title=Activity+Highlights+by+Repository" alt="Activity Graph" height="200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natalina-Neves-Creai&theme=react-dark&hide_border=true&area=true&custom_title=Activity+Highlights+by+Repository" alt="Activity Graph" height="200" />
+  <br>
 </p>
 
 ---
