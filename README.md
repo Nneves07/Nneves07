@@ -30,21 +30,63 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=cb2e87&height=8" width="100%" />
 </div>
 
-<h2 align="left">
-  🌟 About Me
+<h2 align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" height="60"> 
+  <span style="color:#00FFD0; font-size:40px;"> ABOUT ME </span>
 </h2>
 
-🔹 **AI Technical Leader** with **10+ years** of turning cutting-edge innovation into **game-changing business impact**.  
-🔹 Leading the charge at **CreAI**, crafting **robust, scalable AI systems** that redefine industries.  
-🔹 **Co-founder & former CTO** of **Innvox**, where I built an AI platform revolutionizing sales and customer success.
-
-## 💡 What Drives Me
-> *"Building AI solutions that fuse technical excellence with real-world impact"*
-
-- 🚀 **Expertise**: Master of **cloud-native architecture**, **LLMOps**, **NLP**, and **Computer Vision**.  
-- 🔥 **Passion**: Empowering teams and automating workflows to unlock unparalleled efficiency.  
-- 🎯 **Focus**: Delivering **measurable results** through state-of-the-art AI implementations.
-
+<div style="background: linear-gradient(90deg, rgba(203,46,135,0.1) 0%, rgba(0,255,208,0.1) 100%); border-radius: 20px; padding: 20px; margin: 0 20px;">
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+    <div style="background: rgba(25,25,35,0.8); border-radius: 12px; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+      <!-- Left Content -->
+      <h3 style="color: #cb2e87; border-bottom: 1px solid #cb2e87; padding-bottom: 10px; margin-bottom: 15px;">Professional Profile</h3>
+      <ul style="list-style-type: none; padding-left: 10px;">
+        <li style="margin-bottom: 15px;">
+          <span style="background: #cb2e87; color: white; padding: 1px 8px; border-radius: 4px; margin-right: 10px;">▸</span>
+          <strong>AI Technical Leader</strong> with <span style="color:#cb2e87; font-weight:bold;">+10 years</span> transforming innovation into business impact
+        </li>
+        <li style="margin-bottom: 15px;">
+          <span style="background: #cb2e87; color: white; padding: 1px 8px; border-radius: 4px; margin-right: 10px;">▸</span>
+          <strong>Currently leading at <span style="background:#cb2e87; color:white; padding:1px 3px; border-radius:4px;">CreAI</span></strong>, building robust, scalable AI systems
+        </li>
+        <li style="margin-bottom: 15px;">
+          <span style="background: #cb2e87; color: white; padding: 1px 8px; border-radius: 4px; margin-right: 10px;">▸</span>
+          <strong>Co-founder & former CTO at <span style="background:#00FFD0; color:black; padding:1px 3px; border-radius:4px;">Innvox</span></strong>, an AI platform for sales & customer success
+        </li>
+      </ul>
+    </div>
+    <div style="background: rgba(25,25,35,0.8); border-radius: 12px; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+      <!-- Right Content -->
+      <h3 style="color: #00FFD0; border-bottom: 1px solid #00FFD0; padding-bottom: 10px; margin-bottom: 15px;">Technical Expertise</h3>
+      <ul style="list-style-type: none; padding-left: 10px;">
+        <li style="margin-bottom: 15px;">
+          <span style="background: #00FFD0; color: black; padding: 1px 8px; border-radius: 4px; margin-right: 10px;">▸</span>
+          <strong>Specialist in</strong> cloud-native architecture, <span style="color:#00FFD0; font-weight:bold;">LLMOps, NLP, Computer Vision</span>
+        </li>
+        <li style="margin-bottom: 15px;">
+          <span style="background: #00FFD0; color: black; padding: 1px 8px; border-radius: 4px; margin-right: 10px;">▸</span>
+          <strong>Passionate about</strong> team empowerment and workflow automation
+        </li>
+        <li style="margin-bottom: 15px;">
+          <span style="background: #00FFD0; color: black; padding: 1px 8px; border-radius: 4px; margin-right: 10px;">▸</span>
+          <strong>Focus on</strong> measurable results and cutting-edge AI implementation
+        </li>
+      </ul>
+    </div>
+  </div>
+  
+  <!-- Visual Elements Row -->
+  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="31%" style="border-radius: 10px; max-height: 180px;" />
+    <div style="width: 33%; background: rgba(203,46,135,0.15); border-radius: 10px; padding: 15px; text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <h3 style="color: #00FFD0; margin: 0 0 10px 0;">My Philosophy</h3>
+      <p style="margin: 0; font-style: italic;">
+        "Building AI solutions that combine technical excellence with real-world impact"
+      </p>
+    </div>
+    <img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="31%" style="border-radius: 10px; max-height: 180px;" />
+  </div>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=cb2e87&height=8" width="100%" />
@@ -207,7 +249,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="95%" alt="Quote" />
 </div>
-<br>
+
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Dev Jokes" />
 </div>
